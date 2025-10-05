@@ -1,0 +1,13 @@
+{
+  "name": "Swift Dev",
+  "image": "ghcr.io/swift-server/devcontainer/swift:5.9",
+  "features": {},
+  "settings": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vknabel.vscode-swift-development-environment"
+      ]
+    }
+  }
+}
